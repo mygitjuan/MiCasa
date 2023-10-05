@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MiCasa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiCasa_jar</output-path>
+    <root id="archive" name="MiCasa.jar">
+      <element id="module-output" name="MiCasa" />
+    </root>
+  </artifact>
+</component>
